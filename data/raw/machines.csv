@@ -1,0 +1,13 @@
+machine,machine_type,age_band,operating_hours
+MCH_01,CNC Milling,< 2 Years,1120
+MCH_02,CNC Milling,2-5 Years,3240
+MCH_03,CNC Milling,> 5 Years,6450
+MCH_04,Hydraulic Press,< 2 Years,980
+MCH_05,Hydraulic Press,2-5 Years,3810
+MCH_06,Hydraulic Press,> 5 Years,7120
+MCH_07,Precision Lathe,> 5 Years,5890
+MCH_08,Precision Lathe,2-5 Years,2900
+MCH_09,Precision Lathe,< 2 Years,1420
+MCH_10,Die Casting,< 2 Years,870
+MCH_11,Die Casting,> 5 Years,6780
+MCH_12,Die Casting,2-5 Years,3540

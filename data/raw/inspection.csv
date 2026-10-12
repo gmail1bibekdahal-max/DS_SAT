@@ -1,0 +1,1251 @@
+batch,defect_type,defect_count,quality_status
+BATCH_1000,POROSITY,26,Rework
+BATCH_1001,dimensional error,37,rejected
+BATCH_1002,SURFACE SCRATCH,46,Rejected
+BATCH_1003,cracks_structural,42,REWORK
+BATCH_1004,Dim Error,46,Rejected
+BATCH_1005,DIMENSIONAL,60,rejected
+BATCH_1006,dim_error,17,Passed
+BATCH_1007,Surface Scratch,28,REWORK
+BATCH_1008,Surface Scratch,50,Rejected
+BATCH_1009,DIMENSIONAL,54,rejected
+BATCH_1010,Dimensional Error,65,Rejected
+BATCH_1011,hairline_crack,46,Rejected
+BATCH_1012,dimensional error,24,Rework
+BATCH_1013,dim_error,54,rejected
+BATCH_1014,Dim Error,51,REJECT
+BATCH_1015,surface_scratch,40,rejected
+BATCH_1016,POROSITY,21,rework
+BATCH_1017,DIMENSIONAL,50,Rejected
+BATCH_1018,contamination,91,REJECT
+BATCH_1019,Scratch,48,rejected
+BATCH_1020,foreign_particle,29,REWORK
+BATCH_1021,scratch_defect,26,Rework
+BATCH_1022,cracks_structural,91,REJECT
+BATCH_1023,Crack,49,REJECT
+BATCH_1024,porosity,49,REJECT
+BATCH_1025,Surface Scratch,68,Rejected
+BATCH_1026,surface_scratch,45,rejected
+BATCH_1027,dimensional error,38,rework
+BATCH_1028,surface_scratch,47,Rejected
+BATCH_1029,hairline_crack,79,rejected
+BATCH_1030,surface_scratch,34,Rejected
+BATCH_1031,dimensional error,55,Rejected
+BATCH_1032,DIMENSIONAL,40,Rejected
+BATCH_1033,DIMENSIONAL,17,Passed
+BATCH_1034,Dim Error,12,PASS
+BATCH_1035,Scratch,48,REJECT
+BATCH_1036,Scratch,39,REWORK
+BATCH_1037,Surface Scratch,18,passed
+BATCH_1038,surface_scratch,36,rejected
+BATCH_1039,POROSITY,42,REJECT
+BATCH_1040,porosity_defect,65,REJECT
+BATCH_1041,Surface Scratch,90,rejected
+BATCH_1042,dim_error,23,Rework
+BATCH_1043,scratch_defect,24,Rework
+BATCH_1044,POROSITY,39,rejected
+BATCH_1045,Surface Scratch,55,REJECT
+BATCH_1046,Dim Error,16,Rework
+BATCH_1047,dimensional error,17,passed
+BATCH_1048,surface_scratch,87,rejected
+BATCH_1049,DIMENSIONAL,72,rejected
+BATCH_1050,Dim Error,37,Rework
+BATCH_1051,Scratch,56,REJECT
+BATCH_1052,Porosity,39,rejected
+BATCH_1053,foreign_particle,38,Rejected
+BATCH_1054,scratch_defect,81,Rejected
+BATCH_1055,Dimensional Error,25,rework
+BATCH_1056,Dimensional Error,27,REWORK
+BATCH_1057,Cracks,23,Rework
+BATCH_1058,scratch_defect,38,REWORK
+BATCH_1059,Scratch,55,Rejected
+BATCH_1060,Dim Error,25,rework
+BATCH_1061,POROSITY,52,rejected
+BATCH_1062,Surface Scratch,23,REWORK
+BATCH_1063,porosity_defect,19,REWORK
+BATCH_1064,Scratch,41,REJECT
+BATCH_1065,scratch_defect,27,rework
+BATCH_1066,surface_scratch,32,rework
+BATCH_1067,Dim Error,87,REJECT
+BATCH_1068,Surface Scratch,66,rejected
+BATCH_1069,cracks_structural,95,rejected
+BATCH_1070,scratch_defect,78,REJECT
+BATCH_1071,CRACK,32,Rejected
+BATCH_1072,Dimensional Error,71,Rejected
+BATCH_1073,CRACK,58,rejected
+BATCH_1074,scratch_defect,48,REJECT
+BATCH_1075,Scratch,61,rejected
+BATCH_1076,Dimensional Error,36,REJECT
+BATCH_1077,SURFACE SCRATCH,45,rework
+BATCH_1078,Scratch,72,rejected
+BATCH_1079,Surface Scratch,58,REJECT
+BATCH_1080,Surface Scratch,42,REWORK
+BATCH_1081,porosity,50,Rejected
+BATCH_1082,Surface Scratch,40,Rejected
+BATCH_1083,porosity_defect,76,rejected
+BATCH_1084,hairline_crack,27,rework
+BATCH_1085,dimensional error,58,REJECT
+BATCH_1086,porosity_defect,45,Rejected
+BATCH_1087,SURFACE SCRATCH,77,Rejected
+BATCH_1088,Surface Scratch,89,rejected
+BATCH_1089,Dimensional Error,27,rework
+BATCH_1090,hairline_crack,38,rejected
+BATCH_1091,surface_scratch,48,REJECT
+BATCH_1092,Surface Scratch,19,rework
+BATCH_1093,contamination,59,REJECT
+BATCH_1094,SURFACE SCRATCH,38,REWORK
+BATCH_1095,dimensional error,53,REJECT
+BATCH_1096,POROSITY,30,REWORK
+BATCH_1097,Dim Error,20,rework
+BATCH_1098,porosity,28,rework
+BATCH_1099,Dimensional Error,33,REWORK
+BATCH_1100,surface_scratch,70,REJECT
+BATCH_1101,Surface Scratch,40,rework
+BATCH_1102,Scratch,44,REJECT
+BATCH_1103,SURFACE SCRATCH,23,rework
+BATCH_1104,DIMENSIONAL,16,Rework
+BATCH_1105,Surface Scratch,22,REWORK
+BATCH_1106,Surface Scratch,32,REWORK
+BATCH_1107,scratch_defect,40,rework
+BATCH_1108,dim_error,34,rejected
+BATCH_1109,Dim Error,21,PASS
+BATCH_1110,SURFACE SCRATCH,54,rejected
+BATCH_1111,Scratch,55,Rejected
+BATCH_1112,Dim Error,37,Rejected
+BATCH_1113,dimensional error,57,REJECT
+BATCH_1114,Scratch,72,Rejected
+BATCH_1115,dim_error,67,Rejected
+BATCH_1116,dim_error,20,rework
+BATCH_1117,scratch_defect,63,rejected
+BATCH_1118,SURFACE SCRATCH,62,rejected
+BATCH_1119,Dimensional Error,26,Rework
+BATCH_1120,dimensional error,15,PASS
+BATCH_1121,Scratch,49,rejected
+BATCH_1122,Contamination,42,rejected
+BATCH_1123,Dim Error,57,Rejected
+BATCH_1124,scratch_defect,27,Rework
+BATCH_1125,Surface Scratch,62,Rejected
+BATCH_1126,surface_scratch,64,Rejected
+BATCH_1127,dimensional error,34,Rework
+BATCH_1128,porosity_defect,61,REJECT
+BATCH_1129,surface_scratch,34,rework
+BATCH_1130,hairline_crack,30,rework
+BATCH_1131,Porosity,37,REJECT
+BATCH_1132,hairline_crack,26,REWORK
+BATCH_1133,Dim Error,51,Rejected
+BATCH_1134,porosity_defect,31,rework
+BATCH_1135,Scratch,84,Rejected
+BATCH_1136,Crack,55,rejected
+BATCH_1137,scratch_defect,47,rejected
+BATCH_1138,porosity,53,REJECT
+BATCH_1139,CRACK,82,REJECT
+BATCH_1140,Dim Error,57,rejected
+BATCH_1141,Surface Scratch,34,REJECT
+BATCH_1142,scratch_defect,14,PASS
+BATCH_1143,Dimensional Error,17,PASS
+BATCH_1144,Dim Error,59,Rejected
+BATCH_1145,surface_scratch,33,Rework
+BATCH_1146,Dim Error,39,REWORK
+BATCH_1147,SURFACE SCRATCH,44,Rejected
+BATCH_1148,porosity_defect,45,REJECT
+BATCH_1149,dimensional error,66,Rejected
+BATCH_1150,dimensional error,29,Rework
+BATCH_1151,dimensional error,15,passed
+BATCH_1152,Surface Scratch,55,Rejected
+BATCH_1153,Scratch,34,rework
+BATCH_1154,scratch_defect,29,rework
+BATCH_1155,contamination,69,rejected
+BATCH_1156,Dimensional Error,45,REJECT
+BATCH_1157,porosity,36,Rework
+BATCH_1158,Dimensional Error,38,Rejected
+BATCH_1159,porosity_defect,74,REJECT
+BATCH_1160,foreign_particle,29,Rework
+BATCH_1161,POROSITY,31,REWORK
+BATCH_1162,dim_error,52,REJECT
+BATCH_1163,Contamination,65,rejected
+BATCH_1164,Dimensional Error,47,rejected
+BATCH_1165,Porosity,40,rejected
+BATCH_1166,scratch_defect,32,REWORK
+BATCH_1167,Dim Error,24,Rework
+BATCH_1168,SURFACE SCRATCH,71,REJECT
+BATCH_1169,Porosity,34,REWORK
+BATCH_1170,Scratch,43,REJECT
+BATCH_1171,surface_scratch,62,rejected
+BATCH_1172,Surface Scratch,45,rejected
+BATCH_1173,Dimensional Error,48,rejected
+BATCH_1174,CRACK,50,Rejected
+BATCH_1175,POROSITY,31,rework
+BATCH_1176,DIMENSIONAL,29,rework
+BATCH_1177,dim_error,27,rework
+BATCH_1178,dimensional error,36,Rework
+BATCH_1179,Dimensional Error,30,Rework
+BATCH_1180,cracks_structural,11,passed
+BATCH_1181,POROSITY,26,REWORK
+BATCH_1182,SURFACE SCRATCH,70,rejected
+BATCH_1183,POROSITY,65,Rejected
+BATCH_1184,porosity,31,Rework
+BATCH_1185,Dim Error,41,rework
+BATCH_1186,Dimensional Error,51,Rejected
+BATCH_1187,dimensional error,28,REWORK
+BATCH_1188,SURFACE SCRATCH,24,REWORK
+BATCH_1189,dim_error,15,passed
+BATCH_1190,dimensional error,30,rework
+BATCH_1191,dim_error,32,REWORK
+BATCH_1192,SURFACE SCRATCH,79,rejected
+BATCH_1193,CRACK,53,REJECT
+BATCH_1194,scratch_defect,15,passed
+BATCH_1195,Scratch,75,Rejected
+BATCH_1196,Dimensional Error,27,rework
+BATCH_1197,surface_scratch,43,Rejected
+BATCH_1198,scratch_defect,35,REWORK
+BATCH_1199,porosity,22,rework
+BATCH_1200,dim_error,42,REWORK
+BATCH_1201,cracks_structural,16,Passed
+BATCH_1202,POROSITY,49,REJECT
+BATCH_1203,Surface Scratch,75,rejected
+BATCH_1204,DIMENSIONAL,49,REJECT
+BATCH_1205,Contamination,39,Rejected
+BATCH_1206,dim_error,60,Rejected
+BATCH_1207,surface_scratch,36,REWORK
+BATCH_1208,Crack,61,Rejected
+BATCH_1209,Dim Error,64,Rejected
+BATCH_1210,scratch_defect,41,rejected
+BATCH_1211,Dimensional Error,43,REJECT
+BATCH_1212,Surface Scratch,35,Rework
+BATCH_1213,Dimensional Error,35,Rework
+BATCH_1214,scratch_defect,27,REWORK
+BATCH_1215,Dimensional Error,36,REJECT
+BATCH_1216,Cracks,33,rework
+BATCH_1217,Porosity,58,Rejected
+BATCH_1218,Dim Error,23,Rework
+BATCH_1219,Dimensional Error,85,REJECT
+BATCH_1220,dim_error,27,rework
+BATCH_1221,Surface Scratch,33,REWORK
+BATCH_1222,Dimensional Error,74,REJECT
+BATCH_1223,Crack,70,REJECT
+BATCH_1224,porosity_defect,68,Rejected
+BATCH_1225,Scratch,103,REJECT
+BATCH_1226,surface_scratch,37,rework
+BATCH_1227,dim_error,50,rejected
+BATCH_1228,CONTAM,14,passed
+BATCH_1229,Crack,41,rejected
+BATCH_1230,scratch_defect,35,REJECT
+BATCH_1231,Scratch,49,Rejected
+BATCH_1232,contamination,60,rejected
+BATCH_1233,scratch_defect,21,rework
+BATCH_1234,dimensional error,67,Rejected
+BATCH_1235,POROSITY,47,Rejected
+BATCH_1236,CRACK,64,rejected
+BATCH_1237,dim_error,28,Rework
+BATCH_1238,Surface Scratch,26,Rework
+BATCH_1239,scratch_defect,88,rejected
+BATCH_1240,scratch_defect,28,rework
+BATCH_1241,SURFACE SCRATCH,33,REWORK
+BATCH_1242,surface_scratch,23,rework
+BATCH_1243,Scratch,48,Rejected
+BATCH_1244,porosity,89,rejected
+BATCH_1245,foreign_particle,42,REJECT
+BATCH_1246,Dim Error,63,REJECT
+BATCH_1247,SURFACE SCRATCH,32,rework
+BATCH_1248,hairline_crack,48,rejected
+BATCH_1249,SURFACE SCRATCH,55,REJECT
+BATCH_1250,SURFACE SCRATCH,37,rejected
+BATCH_1251,scratch_defect,45,rejected
+BATCH_1252,Porosity,55,rejected
+BATCH_1253,Scratch,85,rejected
+BATCH_1254,dimensional error,42,rework
+BATCH_1255,Porosity,65,REJECT
+BATCH_1256,SURFACE SCRATCH,27,rework
+BATCH_1257,Porosity,68,rejected
+BATCH_1258,Dim Error,20,rework
+BATCH_1259,dimensional error,53,Rejected
+BATCH_1260,Dim Error,14,passed
+BATCH_1261,surface_scratch,40,Rejected
+BATCH_1262,Scratch,50,REJECT
+BATCH_1263,Dimensional Error,80,REJECT
+BATCH_1264,Scratch,57,Rejected
+BATCH_1265,scratch_defect,54,REJECT
+BATCH_1266,Surface Scratch,67,Rejected
+BATCH_1267,DIMENSIONAL,73,REJECT
+BATCH_1268,SURFACE SCRATCH,54,Rejected
+BATCH_1269,Dimensional Error,47,rework
+BATCH_1270,foreign_particle,30,Rework
+BATCH_1271,cracks_structural,61,rejected
+BATCH_1272,dim_error,30,Rework
+BATCH_1273,DIMENSIONAL,74,REJECT
+BATCH_1274,DIMENSIONAL,37,REWORK
+BATCH_1275,DIMENSIONAL,78,REJECT
+BATCH_1276,Surface Scratch,71,REJECT
+BATCH_1277,POROSITY,64,rejected
+BATCH_1278,CRACK,68,REJECT
+BATCH_1279,Crack,71,rejected
+BATCH_1280,Dim Error,66,rejected
+BATCH_1281,SURFACE SCRATCH,13,passed
+BATCH_1282,Dimensional Error,30,Rework
+BATCH_1283,Scratch,83,rejected
+BATCH_1284,Scratch,27,Rework
+BATCH_1285,Porosity,47,REWORK
+BATCH_1286,scratch_defect,50,rejected
+BATCH_1287,CONTAM,21,REWORK
+BATCH_1288,dim_error,73,rejected
+BATCH_1289,Dimensional Error,75,REJECT
+BATCH_1290,scratch_defect,65,Rejected
+BATCH_1291,dim_error,33,Rework
+BATCH_1292,Dim Error,53,REJECT
+BATCH_1293,dimensional error,31,Rework
+BATCH_1294,porosity_defect,68,rejected
+BATCH_1295,dimensional error,33,REWORK
+BATCH_1296,surface_scratch,38,REWORK
+BATCH_1297,Dim Error,32,REWORK
+BATCH_1298,porosity_defect,32,Rework
+BATCH_1299,SURFACE SCRATCH,47,Rejected
+BATCH_1300,Dim Error,27,Rework
+BATCH_1301,SURFACE SCRATCH,31,rework
+BATCH_1302,surface_scratch,50,REJECT
+BATCH_1303,DIMENSIONAL,100,REJECT
+BATCH_1304,dimensional error,11,PASS
+BATCH_1305,cracks_structural,81,Rejected
+BATCH_1306,surface_scratch,69,Rejected
+BATCH_1307,Surface Scratch,35,Rework
+BATCH_1308,Dimensional Error,53,Rejected
+BATCH_1309,Dimensional Error,33,rework
+BATCH_1310,Crack,53,REJECT
+BATCH_1311,SURFACE SCRATCH,13,Passed
+BATCH_1312,DIMENSIONAL,38,Rework
+BATCH_1313,Crack,33,rework
+BATCH_1314,Scratch,35,Rework
+BATCH_1315,porosity_defect,44,Rejected
+BATCH_1316,dimensional error,62,rejected
+BATCH_1317,Scratch,76,rejected
+BATCH_1318,Scratch,21,REWORK
+BATCH_1319,Porosity,14,Passed
+BATCH_1320,dim_error,26,REWORK
+BATCH_1321,dimensional error,49,Rejected
+BATCH_1322,Scratch,42,REJECT
+BATCH_1323,DIMENSIONAL,25,rework
+BATCH_1324,Surface Scratch,84,REJECT
+BATCH_1325,SURFACE SCRATCH,10,PASS
+BATCH_1326,Scratch,55,Rejected
+BATCH_1327,Scratch,72,rejected
+BATCH_1328,Contamination,65,rejected
+BATCH_1329,SURFACE SCRATCH,35,Rework
+BATCH_1330,DIMENSIONAL,47,Rejected
+BATCH_1331,Contamination,47,REWORK
+BATCH_1332,Dim Error,31,rework
+BATCH_1333,SURFACE SCRATCH,35,REJECT
+BATCH_1334,DIMENSIONAL,26,Rework
+BATCH_1335,surface_scratch,41,Rejected
+BATCH_1336,dimensional error,50,REJECT
+BATCH_1337,Scratch,34,Rework
+BATCH_1338,surface_scratch,70,REJECT
+BATCH_1339,DIMENSIONAL,30,REWORK
+BATCH_1340,surface_scratch,54,rejected
+BATCH_1341,scratch_defect,39,Rework
+BATCH_1342,porosity,31,rework
+BATCH_1343,Cracks,54,Rejected
+BATCH_1344,surface_scratch,28,rework
+BATCH_1345,SURFACE SCRATCH,6,passed
+BATCH_1346,Dimensional Error,20,Rework
+BATCH_1347,Scratch,62,Rejected
+BATCH_1348,porosity,39,rejected
+BATCH_1349,Scratch,47,REJECT
+BATCH_1350,porosity,55,Rejected
+BATCH_1351,SURFACE SCRATCH,84,Rejected
+BATCH_1352,Surface Scratch,32,Rework
+BATCH_1353,foreign_particle,39,rework
+BATCH_1354,porosity_defect,58,Rejected
+BATCH_1355,Porosity,81,rejected
+BATCH_1356,DIMENSIONAL,53,Rejected
+BATCH_1357,scratch_defect,61,rejected
+BATCH_1358,Contamination,62,rejected
+BATCH_1359,dim_error,41,Rework
+BATCH_1360,scratch_defect,45,Rejected
+BATCH_1361,porosity,18,Passed
+BATCH_1362,Dimensional Error,54,REJECT
+BATCH_1363,scratch_defect,68,Rejected
+BATCH_1364,SURFACE SCRATCH,61,Rejected
+BATCH_1365,POROSITY,18,passed
+BATCH_1366,porosity_defect,57,REJECT
+BATCH_1367,dim_error,48,REJECT
+BATCH_1368,CONTAM,38,Rework
+BATCH_1369,SURFACE SCRATCH,51,REJECT
+BATCH_1370,Surface Scratch,51,REJECT
+BATCH_1371,CRACK,70,REJECT
+BATCH_1372,surface_scratch,31,Rework
+BATCH_1373,Surface Scratch,36,Rejected
+BATCH_1374,SURFACE SCRATCH,42,Rejected
+BATCH_1375,Dim Error,22,rework
+BATCH_1376,scratch_defect,48,rejected
+BATCH_1377,dimensional error,15,rework
+BATCH_1378,dim_error,38,rejected
+BATCH_1379,SURFACE SCRATCH,49,REJECT
+BATCH_1380,POROSITY,65,rejected
+BATCH_1381,contamination,73,rejected
+BATCH_1382,Scratch,66,REJECT
+BATCH_1383,Dimensional Error,60,REJECT
+BATCH_1384,POROSITY,33,Rework
+BATCH_1385,porosity_defect,41,REJECT
+BATCH_1386,scratch_defect,47,Rejected
+BATCH_1387,Scratch,17,Passed
+BATCH_1388,SURFACE SCRATCH,32,Rework
+BATCH_1389,hairline_crack,63,rejected
+BATCH_1390,Dimensional Error,47,REJECT
+BATCH_1391,scratch_defect,31,Rejected
+BATCH_1392,surface_scratch,27,Rework
+BATCH_1393,SURFACE SCRATCH,32,REWORK
+BATCH_1394,dimensional error,51,REJECT
+BATCH_1395,Porosity,28,REWORK
+BATCH_1396,surface_scratch,38,REWORK
+BATCH_1397,cracks_structural,54,Rejected
+BATCH_1398,Surface Scratch,70,REJECT
+BATCH_1399,scratch_defect,25,Rework
+BATCH_1400,porosity,55,REJECT
+BATCH_1401,cracks_structural,85,rejected
+BATCH_1402,POROSITY,67,Rejected
+BATCH_1403,foreign_particle,79,rejected
+BATCH_1404,scratch_defect,45,rejected
+BATCH_1405,CRACK,78,rejected
+BATCH_1406,SURFACE SCRATCH,54,Rejected
+BATCH_1407,scratch_defect,73,REJECT
+BATCH_1408,scratch_defect,24,REWORK
+BATCH_1409,Contamination,32,rework
+BATCH_1410,Scratch,36,Rework
+BATCH_1411,porosity,70,rejected
+BATCH_1412,porosity_defect,22,passed
+BATCH_1413,dimensional error,15,passed
+BATCH_1414,SURFACE SCRATCH,47,Rework
+BATCH_1415,Cracks,66,REJECT
+BATCH_1416,porosity,50,Rejected
+BATCH_1417,DIMENSIONAL,33,rework
+BATCH_1418,Surface Scratch,27,REWORK
+BATCH_1419,Surface Scratch,63,REJECT
+BATCH_1420,dimensional error,83,REJECT
+BATCH_1421,Dimensional Error,35,REWORK
+BATCH_1422,porosity_defect,59,Rejected
+BATCH_1423,SURFACE SCRATCH,36,rework
+BATCH_1424,Cracks,74,rejected
+BATCH_1425,POROSITY,46,Rejected
+BATCH_1426,Dim Error,35,REWORK
+BATCH_1427,Scratch,31,rework
+BATCH_1428,Surface Scratch,27,Rework
+BATCH_1429,CONTAM,20,Rework
+BATCH_1430,CRACK,27,REWORK
+BATCH_1431,foreign_particle,77,Rejected
+BATCH_1432,DIMENSIONAL,59,REJECT
+BATCH_1433,POROSITY,48,REJECT
+BATCH_1434,Dim Error,66,REJECT
+BATCH_1435,POROSITY,44,Rework
+BATCH_1436,Scratch,33,Rework
+BATCH_1437,dimensional error,35,REJECT
+BATCH_1438,DIMENSIONAL,55,Rejected
+BATCH_1439,foreign_particle,69,REJECT
+BATCH_1440,dim_error,57,rejected
+BATCH_1441,Dim Error,35,Rework
+BATCH_1442,dim_error,72,REJECT
+BATCH_1443,Contamination,31,Rework
+BATCH_1444,contamination,35,rework
+BATCH_1445,dim_error,84,rejected
+BATCH_1446,Porosity,46,rejected
+BATCH_1447,Dim Error,40,rejected
+BATCH_1448,dim_error,54,Rejected
+BATCH_1449,CRACK,50,REJECT
+BATCH_1450,Crack,20,REWORK
+BATCH_1451,SURFACE SCRATCH,46,Rejected
+BATCH_1452,Scratch,65,Rejected
+BATCH_1453,POROSITY,31,rework
+BATCH_1454,POROSITY,30,rework
+BATCH_1455,contamination,58,rejected
+BATCH_1456,Dimensional Error,34,rework
+BATCH_1457,DIMENSIONAL,83,Rejected
+BATCH_1458,scratch_defect,34,REWORK
+BATCH_1459,Scratch,56,rejected
+BATCH_1460,porosity,38,rework
+BATCH_1461,POROSITY,47,rejected
+BATCH_1462,dimensional error,47,rejected
+BATCH_1463,Porosity,20,REWORK
+BATCH_1464,Scratch,20,rework
+BATCH_1465,dimensional error,30,rework
+BATCH_1466,Scratch,25,rework
+BATCH_1467,Scratch,42,rework
+BATCH_1468,porosity,21,rework
+BATCH_1469,surface_scratch,82,REJECT
+BATCH_1470,scratch_defect,33,REWORK
+BATCH_1471,DIMENSIONAL,71,REJECT
+BATCH_1472,Dim Error,68,REJECT
+BATCH_1473,dimensional error,36,Rejected
+BATCH_1474,scratch_defect,66,REJECT
+BATCH_1475,SURFACE SCRATCH,46,Rejected
+BATCH_1476,POROSITY,25,rework
+BATCH_1477,Scratch,51,Rejected
+BATCH_1478,POROSITY,22,PASS
+BATCH_1479,Dimensional Error,59,rejected
+BATCH_1480,foreign_particle,58,Rejected
+BATCH_1481,surface_scratch,28,REWORK
+BATCH_1482,Contamination,36,rework
+BATCH_1483,surface_scratch,47,Rework
+BATCH_1484,CRACK,47,REJECT
+BATCH_1485,porosity,40,Rework
+BATCH_1486,Surface Scratch,51,REJECT
+BATCH_1487,Dim Error,21,rework
+BATCH_1488,dim_error,39,Rejected
+BATCH_1489,scratch_defect,40,REJECT
+BATCH_1490,scratch_defect,33,rework
+BATCH_1491,POROSITY,29,rework
+BATCH_1492,DIMENSIONAL,93,Rejected
+BATCH_1493,SURFACE SCRATCH,13,Passed
+BATCH_1494,contamination,79,rejected
+BATCH_1495,porosity,16,PASS
+BATCH_1496,Dimensional Error,28,REWORK
+BATCH_1497,POROSITY,31,Rejected
+BATCH_1498,porosity,26,REWORK
+BATCH_1499,scratch_defect,35,Rework
+BATCH_1500,dim_error,56,Rejected
+BATCH_1501,Dim Error,22,rework
+BATCH_1502,Dimensional Error,20,Passed
+BATCH_1503,Scratch,29,REWORK
+BATCH_1504,DIMENSIONAL,30,rework
+BATCH_1505,Crack,41,Rejected
+BATCH_1506,Dimensional Error,50,REJECT
+BATCH_1507,SURFACE SCRATCH,34,REJECT
+BATCH_1508,scratch_defect,29,rework
+BATCH_1509,dimensional error,88,rejected
+BATCH_1510,Scratch,32,rework
+BATCH_1511,DIMENSIONAL,43,rejected
+BATCH_1512,scratch_defect,48,rejected
+BATCH_1513,scratch_defect,47,REJECT
+BATCH_1514,Dimensional Error,64,REJECT
+BATCH_1515,SURFACE SCRATCH,19,PASS
+BATCH_1516,Surface Scratch,56,REJECT
+BATCH_1517,Scratch,19,PASS
+BATCH_1518,surface_scratch,83,Rejected
+BATCH_1519,contamination,48,Rejected
+BATCH_1520,Scratch,39,REWORK
+BATCH_1521,Surface Scratch,87,Rejected
+BATCH_1522,cracks_structural,54,REJECT
+BATCH_1523,CRACK,28,rework
+BATCH_1524,Scratch,58,Rejected
+BATCH_1525,porosity,46,Rejected
+BATCH_1526,surface_scratch,11,PASS
+BATCH_1527,DIMENSIONAL,15,passed
+BATCH_1528,SURFACE SCRATCH,61,rejected
+BATCH_1529,SURFACE SCRATCH,51,REJECT
+BATCH_1530,DIMENSIONAL,28,rework
+BATCH_1531,POROSITY,12,Passed
+BATCH_1532,Cracks,56,REJECT
+BATCH_1533,SURFACE SCRATCH,63,Rejected
+BATCH_1534,scratch_defect,66,Rejected
+BATCH_1535,Scratch,19,passed
+BATCH_1536,scratch_defect,49,REJECT
+BATCH_1537,Surface Scratch,36,Rejected
+BATCH_1538,scratch_defect,68,rejected
+BATCH_1539,surface_scratch,44,rejected
+BATCH_1540,surface_scratch,59,REJECT
+BATCH_1541,surface_scratch,46,rejected
+BATCH_1542,porosity,49,REJECT
+BATCH_1543,Scratch,73,Rejected
+BATCH_1544,dim_error,69,Rejected
+BATCH_1545,POROSITY,50,rejected
+BATCH_1546,surface_scratch,62,REJECT
+BATCH_1547,Dimensional Error,47,rejected
+BATCH_1548,surface_scratch,61,REJECT
+BATCH_1549,CRACK,27,REWORK
+BATCH_1550,Dim Error,40,rejected
+BATCH_1551,cracks_structural,34,Rejected
+BATCH_1552,SURFACE SCRATCH,50,Rejected
+BATCH_1553,Scratch,37,Rejected
+BATCH_1554,Porosity,30,rework
+BATCH_1555,Scratch,99,REJECT
+BATCH_1556,Porosity,25,REWORK
+BATCH_1557,SURFACE SCRATCH,46,REWORK
+BATCH_1558,dim_error,106,REJECT
+BATCH_1559,scratch_defect,30,REWORK
+BATCH_1560,SURFACE SCRATCH,35,Rejected
+BATCH_1561,dimensional error,43,rework
+BATCH_1562,CRACK,57,rejected
+BATCH_1563,Dimensional Error,31,rework
+BATCH_1564,Surface Scratch,12,passed
+BATCH_1565,dim_error,23,passed
+BATCH_1566,SURFACE SCRATCH,55,REJECT
+BATCH_1567,dim_error,58,Rejected
+BATCH_1568,Surface Scratch,15,passed
+BATCH_1569,cracks_structural,37,REWORK
+BATCH_1570,SURFACE SCRATCH,35,REWORK
+BATCH_1571,Surface Scratch,20,Passed
+BATCH_1572,foreign_particle,54,Rejected
+BATCH_1573,scratch_defect,53,Rejected
+BATCH_1574,porosity_defect,15,PASS
+BATCH_1575,dimensional error,36,REWORK
+BATCH_1576,Surface Scratch,21,Rework
+BATCH_1577,surface_scratch,38,Rework
+BATCH_1578,Porosity,65,REJECT
+BATCH_1579,surface_scratch,66,REJECT
+BATCH_1580,Dimensional Error,20,Rework
+BATCH_1581,Crack,48,REJECT
+BATCH_1582,SURFACE SCRATCH,89,Rejected
+BATCH_1583,hairline_crack,7,Passed
+BATCH_1584,contamination,27,rework
+BATCH_1585,CRACK,37,Rework
+BATCH_1586,scratch_defect,27,Rework
+BATCH_1587,DIMENSIONAL,43,rejected
+BATCH_1588,DIMENSIONAL,60,Rejected
+BATCH_1589,hairline_crack,17,passed
+BATCH_1590,Dim Error,68,rejected
+BATCH_1591,surface_scratch,46,rejected
+BATCH_1592,Surface Scratch,44,REJECT
+BATCH_1593,Dimensional Error,39,REWORK
+BATCH_1594,porosity,14,PASS
+BATCH_1595,Dimensional Error,39,REWORK
+BATCH_1596,surface_scratch,76,rejected
+BATCH_1597,scratch_defect,54,rejected
+BATCH_1598,SURFACE SCRATCH,56,REJECT
+BATCH_1599,porosity_defect,35,rework
+BATCH_1600,DIMENSIONAL,25,REWORK
+BATCH_1601,Surface Scratch,68,rejected
+BATCH_1602,porosity,51,Rejected
+BATCH_1603,Dim Error,46,Rejected
+BATCH_1604,Surface Scratch,33,rework
+BATCH_1605,Dimensional Error,47,Rejected
+BATCH_1606,Scratch,52,Rejected
+BATCH_1607,Surface Scratch,41,Rejected
+BATCH_1608,DIMENSIONAL,40,rejected
+BATCH_1609,porosity_defect,57,REJECT
+BATCH_1610,porosity,43,Rejected
+BATCH_1611,Porosity,27,REWORK
+BATCH_1612,surface_scratch,48,rejected
+BATCH_1613,POROSITY,46,Rejected
+BATCH_1614,surface_scratch,70,REJECT
+BATCH_1615,Scratch,100,Rejected
+BATCH_1616,cracks_structural,57,Rejected
+BATCH_1617,surface_scratch,68,rejected
+BATCH_1618,Dim Error,18,Rework
+BATCH_1619,Cracks,55,Rejected
+BATCH_1620,DIMENSIONAL,58,REJECT
+BATCH_1621,scratch_defect,24,rework
+BATCH_1622,Surface Scratch,41,rework
+BATCH_1623,Dimensional Error,65,REJECT
+BATCH_1624,POROSITY,45,rejected
+BATCH_1625,Surface Scratch,67,REJECT
+BATCH_1626,Scratch,72,Rejected
+BATCH_1627,Dim Error,86,REJECT
+BATCH_1628,surface_scratch,90,REJECT
+BATCH_1629,scratch_defect,74,Rejected
+BATCH_1630,Scratch,35,REWORK
+BATCH_1631,DIMENSIONAL,29,REWORK
+BATCH_1632,Dim Error,36,REWORK
+BATCH_1633,Scratch,56,REJECT
+BATCH_1634,Scratch,49,rejected
+BATCH_1635,Crack,53,rejected
+BATCH_1636,DIMENSIONAL,61,Rejected
+BATCH_1637,surface_scratch,49,rejected
+BATCH_1638,contamination,62,rejected
+BATCH_1639,porosity_defect,28,rework
+BATCH_1640,Scratch,19,rework
+BATCH_1641,porosity,59,rejected
+BATCH_1642,SURFACE SCRATCH,25,Rework
+BATCH_1643,CRACK,33,rework
+BATCH_1644,Dim Error,28,rework
+BATCH_1645,foreign_particle,70,rejected
+BATCH_1646,Scratch,32,Rework
+BATCH_1647,porosity,22,Rework
+BATCH_1648,surface_scratch,42,REJECT
+BATCH_1649,scratch_defect,35,rejected
+BATCH_1650,cracks_structural,42,rejected
+BATCH_1651,SURFACE SCRATCH,27,Rework
+BATCH_1652,Scratch,16,Rework
+BATCH_1653,Dim Error,43,rejected
+BATCH_1654,cracks_structural,55,rejected
+BATCH_1655,surface_scratch,46,rejected
+BATCH_1656,dimensional error,74,REJECT
+BATCH_1657,scratch_defect,25,rework
+BATCH_1658,Scratch,54,Rejected
+BATCH_1659,Dim Error,39,REJECT
+BATCH_1660,DIMENSIONAL,58,REJECT
+BATCH_1661,dimensional error,34,REWORK
+BATCH_1662,surface_scratch,40,Rework
+BATCH_1663,Scratch,30,Rework
+BATCH_1664,Crack,35,rework
+BATCH_1665,scratch_defect,53,REJECT
+BATCH_1666,Porosity,39,REJECT
+BATCH_1667,Surface Scratch,53,Rejected
+BATCH_1668,Surface Scratch,67,rejected
+BATCH_1669,POROSITY,63,rejected
+BATCH_1670,surface_scratch,59,Rejected
+BATCH_1671,Surface Scratch,33,rework
+BATCH_1672,DIMENSIONAL,32,REWORK
+BATCH_1673,CRACK,75,rejected
+BATCH_1674,surface_scratch,86,rejected
+BATCH_1675,scratch_defect,38,Rework
+BATCH_1676,Crack,101,Rejected
+BATCH_1677,scratch_defect,20,PASS
+BATCH_1678,scratch_defect,55,REJECT
+BATCH_1679,DIMENSIONAL,48,REJECT
+BATCH_1680,porosity,33,Rework
+BATCH_1681,dimensional error,53,rejected
+BATCH_1682,Surface Scratch,38,Rework
+BATCH_1683,CRACK,42,rework
+BATCH_1684,Dimensional Error,27,REWORK
+BATCH_1685,DIMENSIONAL,50,rejected
+BATCH_1686,dimensional error,19,rework
+BATCH_1687,CRACK,56,REJECT
+BATCH_1688,DIMENSIONAL,49,Rejected
+BATCH_1689,Cracks,24,Rework
+BATCH_1690,SURFACE SCRATCH,33,REWORK
+BATCH_1691,surface_scratch,75,Rejected
+BATCH_1692,contamination,46,REJECT
+BATCH_1693,Surface Scratch,71,rejected
+BATCH_1694,Dim Error,51,Rejected
+BATCH_1695,dim_error,56,rejected
+BATCH_1696,CONTAM,43,rework
+BATCH_1697,SURFACE SCRATCH,64,REJECT
+BATCH_1698,Cracks,57,rejected
+BATCH_1699,surface_scratch,70,Rejected
+BATCH_1700,DIMENSIONAL,28,rework
+BATCH_1701,Dim Error,22,rework
+BATCH_1702,Scratch,104,REJECT
+BATCH_1703,scratch_defect,39,Rejected
+BATCH_1704,scratch_defect,42,Rejected
+BATCH_1705,Porosity,27,rework
+BATCH_1706,Scratch,52,rejected
+BATCH_1707,SURFACE SCRATCH,54,REJECT
+BATCH_1708,SURFACE SCRATCH,31,REWORK
+BATCH_1709,porosity_defect,52,rejected
+BATCH_1710,porosity,42,rejected
+BATCH_1711,porosity,51,rejected
+BATCH_1712,Surface Scratch,62,rejected
+BATCH_1713,Cracks,22,REWORK
+BATCH_1714,cracks_structural,56,Rejected
+BATCH_1715,surface_scratch,31,Rework
+BATCH_1716,surface_scratch,72,rejected
+BATCH_1717,scratch_defect,74,Rejected
+BATCH_1718,Porosity,59,Rejected
+BATCH_1719,POROSITY,66,REJECT
+BATCH_1720,scratch_defect,70,REJECT
+BATCH_1721,foreign_particle,70,REJECT
+BATCH_1722,Cracks,44,REJECT
+BATCH_1723,surface_scratch,36,Rework
+BATCH_1724,Cracks,53,Rejected
+BATCH_1725,Surface Scratch,58,Rejected
+BATCH_1726,dimensional error,50,Rejected
+BATCH_1727,Surface Scratch,37,rework
+BATCH_1728,scratch_defect,53,Rejected
+BATCH_1729,dimensional error,40,REWORK
+BATCH_1730,contamination,36,rework
+BATCH_1731,scratch_defect,41,Rework
+BATCH_1732,dim_error,30,Rework
+BATCH_1733,surface_scratch,77,rejected
+BATCH_1734,scratch_defect,48,REJECT
+BATCH_1735,Contamination,66,REJECT
+BATCH_1736,porosity,38,Rejected
+BATCH_1737,porosity,28,Rework
+BATCH_1738,scratch_defect,59,rejected
+BATCH_1739,dim_error,63,REJECT
+BATCH_1740,Scratch,62,rejected
+BATCH_1741,porosity,65,REJECT
+BATCH_1742,SURFACE SCRATCH,39,rework
+BATCH_1743,Porosity,57,Rejected
+BATCH_1744,SURFACE SCRATCH,82,REJECT
+BATCH_1745,Scratch,57,Rejected
+BATCH_1746,Dim Error,20,Rework
+BATCH_1747,Contamination,77,rejected
+BATCH_1748,DIMENSIONAL,26,REWORK
+BATCH_1749,Dimensional Error,45,REJECT
+BATCH_1750,SURFACE SCRATCH,46,rejected
+BATCH_1751,Scratch,54,rejected
+BATCH_1752,Dim Error,64,rejected
+BATCH_1753,dimensional error,65,Rejected
+BATCH_1754,Dimensional Error,27,REWORK
+BATCH_1755,Scratch,16,rework
+BATCH_1756,Scratch,29,rework
+BATCH_1757,CRACK,79,rejected
+BATCH_1758,Scratch,38,rejected
+BATCH_1759,Crack,68,rejected
+BATCH_1760,surface_scratch,24,rework
+BATCH_1761,Scratch,38,REWORK
+BATCH_1762,Crack,44,REJECT
+BATCH_1763,Crack,42,Rejected
+BATCH_1764,Scratch,32,Rework
+BATCH_1765,surface_scratch,30,Rework
+BATCH_1766,dimensional error,54,rejected
+BATCH_1767,POROSITY,51,Rejected
+BATCH_1768,scratch_defect,41,REJECT
+BATCH_1769,Dim Error,25,Rework
+BATCH_1770,Dimensional Error,58,rejected
+BATCH_1771,Contamination,75,rejected
+BATCH_1772,POROSITY,44,Rejected
+BATCH_1773,Scratch,47,Rejected
+BATCH_1774,Surface Scratch,36,rework
+BATCH_1775,DIMENSIONAL,61,REJECT
+BATCH_1776,scratch_defect,43,rejected
+BATCH_1777,dim_error,34,Rework
+BATCH_1778,DIMENSIONAL,77,REJECT
+BATCH_1779,surface_scratch,99,rejected
+BATCH_1780,Dim Error,79,Rejected
+BATCH_1781,SURFACE SCRATCH,24,rework
+BATCH_1782,SURFACE SCRATCH,119,REJECT
+BATCH_1783,SURFACE SCRATCH,31,REWORK
+BATCH_1784,CRACK,43,rejected
+BATCH_1785,dim_error,22,rework
+BATCH_1786,dimensional error,68,rejected
+BATCH_1787,porosity,83,REJECT
+BATCH_1788,dimensional error,41,Rejected
+BATCH_1789,Dim Error,72,Rejected
+BATCH_1790,Surface Scratch,36,rework
+BATCH_1791,POROSITY,45,Rejected
+BATCH_1792,Dim Error,74,REJECT
+BATCH_1793,hairline_crack,36,Rework
+BATCH_1794,dimensional error,56,rejected
+BATCH_1795,POROSITY,62,Rejected
+BATCH_1796,dimensional error,24,REWORK
+BATCH_1797,SURFACE SCRATCH,43,REJECT
+BATCH_1798,dimensional error,55,rejected
+BATCH_1799,foreign_particle,36,rejected
+BATCH_1800,dim_error,33,Rework
+BATCH_1801,porosity,40,REWORK
+BATCH_1802,DIMENSIONAL,42,REWORK
+BATCH_1803,surface_scratch,45,REJECT
+BATCH_1804,POROSITY,41,Rework
+BATCH_1805,porosity_defect,66,REJECT
+BATCH_1806,Porosity,42,rejected
+BATCH_1807,surface_scratch,40,rework
+BATCH_1808,Scratch,23,Rework
+BATCH_1809,surface_scratch,83,rejected
+BATCH_1810,dim_error,44,Rework
+BATCH_1811,DIMENSIONAL,66,Rejected
+BATCH_1812,CRACK,42,rejected
+BATCH_1813,scratch_defect,29,rework
+BATCH_1814,scratch_defect,15,Passed
+BATCH_1815,Surface Scratch,39,Rework
+BATCH_1816,SURFACE SCRATCH,41,REJECT
+BATCH_1817,dimensional error,62,rejected
+BATCH_1818,porosity_defect,82,REJECT
+BATCH_1819,Scratch,80,REJECT
+BATCH_1820,surface_scratch,55,rejected
+BATCH_1821,Dimensional Error,73,REJECT
+BATCH_1822,scratch_defect,42,REJECT
+BATCH_1823,scratch_defect,21,Rework
+BATCH_1824,porosity,15,passed
+BATCH_1825,Surface Scratch,21,Rework
+BATCH_1826,scratch_defect,21,Passed
+BATCH_1827,Crack,33,Rework
+BATCH_1828,POROSITY,88,rejected
+BATCH_1829,SURFACE SCRATCH,49,Rejected
+BATCH_1830,dim_error,66,Rejected
+BATCH_1831,Dim Error,48,REJECT
+BATCH_1832,Surface Scratch,40,Rework
+BATCH_1833,Dimensional Error,53,rejected
+BATCH_1834,Surface Scratch,52,REJECT
+BATCH_1835,Dimensional Error,33,Rework
+BATCH_1836,dimensional error,55,rejected
+BATCH_1837,surface_scratch,60,Rejected
+BATCH_1838,Crack,61,REJECT
+BATCH_1839,Scratch,84,REJECT
+BATCH_1840,Dimensional Error,90,REJECT
+BATCH_1841,porosity_defect,26,Rework
+BATCH_1842,Dim Error,67,REJECT
+BATCH_1843,surface_scratch,25,REWORK
+BATCH_1844,surface_scratch,42,REJECT
+BATCH_1845,DIMENSIONAL,29,REWORK
+BATCH_1846,SURFACE SCRATCH,45,REJECT
+BATCH_1847,Crack,30,rework
+BATCH_1848,scratch_defect,81,Rejected
+BATCH_1849,cracks_structural,90,rejected
+BATCH_1850,SURFACE SCRATCH,64,REJECT
+BATCH_1851,surface_scratch,74,REJECT
+BATCH_1852,surface_scratch,65,rejected
+BATCH_1853,CRACK,37,Rework
+BATCH_1854,Dim Error,54,Rejected
+BATCH_1855,dim_error,51,rejected
+BATCH_1856,Surface Scratch,40,Rework
+BATCH_1857,Surface Scratch,47,REJECT
+BATCH_1858,Crack,53,Rejected
+BATCH_1859,POROSITY,41,REWORK
+BATCH_1860,dim_error,28,rework
+BATCH_1861,Surface Scratch,48,REJECT
+BATCH_1862,dim_error,70,rejected
+BATCH_1863,Surface Scratch,48,rejected
+BATCH_1864,surface_scratch,45,rejected
+BATCH_1865,Scratch,30,REWORK
+BATCH_1866,Scratch,78,REJECT
+BATCH_1867,porosity_defect,65,rejected
+BATCH_1868,DIMENSIONAL,65,REJECT
+BATCH_1869,porosity,24,Rework
+BATCH_1870,Dimensional Error,48,Rejected
+BATCH_1871,Dimensional Error,44,rejected
+BATCH_1872,hairline_crack,55,rejected
+BATCH_1873,scratch_defect,45,Rejected
+BATCH_1874,SURFACE SCRATCH,20,Rework
+BATCH_1875,Dim Error,42,REWORK
+BATCH_1876,Cracks,58,rejected
+BATCH_1877,Surface Scratch,66,rejected
+BATCH_1878,Porosity,19,rework
+BATCH_1879,Scratch,71,Rejected
+BATCH_1880,Surface Scratch,68,rejected
+BATCH_1881,Surface Scratch,58,Rejected
+BATCH_1882,porosity_defect,60,REJECT
+BATCH_1883,DIMENSIONAL,31,rework
+BATCH_1884,scratch_defect,58,rejected
+BATCH_1885,surface_scratch,26,Rework
+BATCH_1886,Scratch,42,Rejected
+BATCH_1887,Scratch,63,rejected
+BATCH_1888,Surface Scratch,27,REWORK
+BATCH_1889,Cracks,56,rejected
+BATCH_1890,porosity_defect,40,Rejected
+BATCH_1891,Porosity,61,REJECT
+BATCH_1892,surface_scratch,60,Rejected
+BATCH_1893,Dimensional Error,33,REWORK
+BATCH_1894,scratch_defect,74,rejected
+BATCH_1895,Dim Error,77,Rejected
+BATCH_1896,Porosity,52,rejected
+BATCH_1897,scratch_defect,42,rework
+BATCH_1898,Dim Error,65,REJECT
+BATCH_1899,SURFACE SCRATCH,53,REJECT
+BATCH_1900,dimensional error,72,rejected
+BATCH_1901,POROSITY,47,rejected
+BATCH_1902,Scratch,34,rework
+BATCH_1903,DIMENSIONAL,36,rework
+BATCH_1904,Scratch,15,PASS
+BATCH_1905,DIMENSIONAL,64,rejected
+BATCH_1906,SURFACE SCRATCH,18,Passed
+BATCH_1907,SURFACE SCRATCH,55,REJECT
+BATCH_1908,dim_error,60,REJECT
+BATCH_1909,Surface Scratch,38,rework
+BATCH_1910,dimensional error,41,REJECT
+BATCH_1911,surface_scratch,69,REJECT
+BATCH_1912,surface_scratch,27,REWORK
+BATCH_1913,Scratch,30,Rejected
+BATCH_1914,Contamination,49,REJECT
+BATCH_1915,Surface Scratch,14,passed
+BATCH_1916,Crack,88,REJECT
+BATCH_1917,SURFACE SCRATCH,45,rejected
+BATCH_1918,SURFACE SCRATCH,72,REJECT
+BATCH_1919,cracks_structural,16,PASS
+BATCH_1920,porosity,35,REWORK
+BATCH_1921,Scratch,41,REWORK
+BATCH_1922,Porosity,14,Passed
+BATCH_1923,Dim Error,32,Rework
+BATCH_1924,porosity,49,REJECT
+BATCH_1925,scratch_defect,78,Rejected
+BATCH_1926,Dimensional Error,62,REJECT
+BATCH_1927,contamination,62,rejected
+BATCH_1928,surface_scratch,66,REJECT
+BATCH_1929,dimensional error,25,Rework
+BATCH_1930,SURFACE SCRATCH,78,Rejected
+BATCH_1931,Surface Scratch,56,Rejected
+BATCH_1932,Surface Scratch,34,rework
+BATCH_1933,CRACK,46,Rejected
+BATCH_1934,DIMENSIONAL,36,rework
+BATCH_1935,surface_scratch,20,rework
+BATCH_1936,dim_error,48,rejected
+BATCH_1937,dim_error,22,Rework
+BATCH_1938,Dimensional Error,52,rejected
+BATCH_1939,Surface Scratch,13,rework
+BATCH_1940,porosity_defect,13,PASS
+BATCH_1941,porosity_defect,71,REJECT
+BATCH_1942,DIMENSIONAL,102,REJECT
+BATCH_1943,Dimensional Error,33,rework
+BATCH_1944,Scratch,37,Rejected
+BATCH_1945,dim_error,44,Rejected
+BATCH_1946,Surface Scratch,55,rejected
+BATCH_1947,SURFACE SCRATCH,56,Rejected
+BATCH_1948,Dim Error,25,Rework
+BATCH_1949,scratch_defect,94,REJECT
+BATCH_1950,porosity,51,REJECT
+BATCH_1951,Surface Scratch,82,REJECT
+BATCH_1952,Surface Scratch,28,REWORK
+BATCH_1953,dim_error,61,Rejected
+BATCH_1954,dim_error,40,rejected
+BATCH_1955,Porosity,32,rework
+BATCH_1956,dim_error,33,rework
+BATCH_1957,Scratch,30,rework
+BATCH_1958,Porosity,38,rework
+BATCH_1959,Dim Error,25,Rework
+BATCH_1960,Dimensional Error,53,Rejected
+BATCH_1961,dimensional error,31,Rework
+BATCH_1962,surface_scratch,43,rejected
+BATCH_1963,surface_scratch,30,Rework
+BATCH_1964,scratch_defect,65,rejected
+BATCH_1965,Scratch,38,REJECT
+BATCH_1966,Cracks,37,Rework
+BATCH_1967,surface_scratch,42,REJECT
+BATCH_1968,Contamination,25,rework
+BATCH_1969,Dim Error,34,Rework
+BATCH_1970,POROSITY,27,REWORK
+BATCH_1971,Dim Error,76,rejected
+BATCH_1972,Scratch,39,REWORK
+BATCH_1973,Porosity,40,Rejected
+BATCH_1974,SURFACE SCRATCH,73,rejected
+BATCH_1975,surface_scratch,47,Rejected
+BATCH_1976,surface_scratch,32,Rejected
+BATCH_1977,dimensional error,48,rejected
+BATCH_1978,dim_error,53,rejected
+BATCH_1979,Dim Error,34,Rework
+BATCH_1980,contamination,62,REJECT
+BATCH_1981,scratch_defect,91,Rejected
+BATCH_1982,surface_scratch,21,rework
+BATCH_1983,Scratch,47,Rejected
+BATCH_1984,scratch_defect,69,Rejected
+BATCH_1985,SURFACE SCRATCH,24,REWORK
+BATCH_1986,DIMENSIONAL,20,Rework
+BATCH_1987,surface_scratch,44,rejected
+BATCH_1988,porosity,7,PASS
+BATCH_1989,Dim Error,33,Rework
+BATCH_1990,Scratch,68,REJECT
+BATCH_1991,dim_error,22,Rework
+BATCH_1992,surface_scratch,20,PASS
+BATCH_1993,Surface Scratch,72,rejected
+BATCH_1994,Dimensional Error,52,REJECT
+BATCH_1995,Scratch,36,REJECT
+BATCH_1996,surface_scratch,62,rejected
+BATCH_1997,Scratch,77,Rejected
+BATCH_1998,CRACK,37,Rework
+BATCH_1999,SURFACE SCRATCH,71,rejected
+BATCH_2000,dimensional error,36,REWORK
+BATCH_2001,CRACK,40,REWORK
+BATCH_2002,cracks_structural,32,rework
+BATCH_2003,dimensional error,38,Rejected
+BATCH_2004,DIMENSIONAL,33,rework
+BATCH_2005,porosity_defect,28,REWORK
+BATCH_2006,Surface Scratch,19,PASS
+BATCH_2007,surface_scratch,81,REJECT
+BATCH_2008,SURFACE SCRATCH,36,rework
+BATCH_2009,SURFACE SCRATCH,30,rework
+BATCH_2010,POROSITY,26,rework
+BATCH_2011,porosity_defect,25,REWORK
+BATCH_2012,dim_error,66,REJECT
+BATCH_2013,dim_error,32,REWORK
+BATCH_2014,dim_error,58,Rejected
+BATCH_2015,Dimensional Error,100,REJECT
+BATCH_2016,DIMENSIONAL,56,REJECT
+BATCH_2017,Dimensional Error,34,rework
+BATCH_2018,DIMENSIONAL,43,rejected
+BATCH_2019,dimensional error,68,rejected
+BATCH_2020,hairline_crack,76,Rejected
+BATCH_2021,DIMENSIONAL,28,rework
+BATCH_2022,SURFACE SCRATCH,35,REWORK
+BATCH_2023,DIMENSIONAL,27,rework
+BATCH_2024,dimensional error,61,REJECT
+BATCH_2025,Crack,29,REWORK
+BATCH_2026,SURFACE SCRATCH,20,REWORK
+BATCH_2027,DIMENSIONAL,15,Passed
+BATCH_2028,porosity,33,Rework
+BATCH_2029,POROSITY,33,REWORK
+BATCH_2030,scratch_defect,60,REJECT
+BATCH_2031,porosity,29,REWORK
+BATCH_2032,POROSITY,63,Rejected
+BATCH_2033,SURFACE SCRATCH,32,REWORK
+BATCH_2034,DIMENSIONAL,53,Rejected
+BATCH_2035,Surface Scratch,33,rework
+BATCH_2036,Scratch,41,REJECT
+BATCH_2037,Contamination,57,Rejected
+BATCH_2038,SURFACE SCRATCH,43,rework
+BATCH_2039,dim_error,9,PASS
+BATCH_2040,porosity_defect,54,Rejected
+BATCH_2041,Scratch,47,REJECT
+BATCH_2042,Contamination,30,rework
+BATCH_2043,DIMENSIONAL,31,Rework
+BATCH_2044,Surface Scratch,28,rework
+BATCH_2045,Porosity,29,Rework
+BATCH_2046,POROSITY,58,Rejected
+BATCH_2047,DIMENSIONAL,38,Rework
+BATCH_2048,porosity_defect,18,Passed
+BATCH_2049,scratch_defect,61,Rejected
+BATCH_2050,SURFACE SCRATCH,66,REJECT
+BATCH_2051,POROSITY,63,rejected
+BATCH_2052,surface_scratch,66,REJECT
+BATCH_2053,DIMENSIONAL,34,REWORK
+BATCH_2054,surface_scratch,34,Rework
+BATCH_2055,scratch_defect,45,rejected
+BATCH_2056,porosity,29,rework
+BATCH_2057,scratch_defect,23,Rework
+BATCH_2058,Contamination,19,REWORK
+BATCH_2059,POROSITY,84,rejected
+BATCH_2060,surface_scratch,50,rejected
+BATCH_2061,Scratch,80,REJECT
+BATCH_2062,surface_scratch,79,Rejected
+BATCH_2063,Surface Scratch,23,Rework
+BATCH_2064,Dim Error,13,PASS
+BATCH_2065,CRACK,49,rejected
+BATCH_2066,Surface Scratch,43,Rejected
+BATCH_2067,Scratch,73,rejected
+BATCH_2068,Scratch,36,REWORK
+BATCH_2069,Porosity,44,REJECT
+BATCH_2070,porosity,25,REWORK
+BATCH_2071,dim_error,67,rejected
+BATCH_2072,Scratch,57,REJECT
+BATCH_2073,Dim Error,18,REWORK
+BATCH_2074,surface_scratch,29,REWORK
+BATCH_2075,Scratch,62,Rejected
+BATCH_2076,porosity,40,Rework
+BATCH_2077,Scratch,73,rejected
+BATCH_2078,SURFACE SCRATCH,90,Rejected
+BATCH_2079,Scratch,36,Rework
+BATCH_2080,dim_error,30,Rework
+BATCH_2081,Dimensional Error,60,rejected
+BATCH_2082,Porosity,23,rework
+BATCH_2083,DIMENSIONAL,66,rejected
+BATCH_2084,Scratch,10,PASS
+BATCH_2085,Dim Error,49,Rejected
+BATCH_2086,DIMENSIONAL,57,Rejected
+BATCH_2087,SURFACE SCRATCH,29,rework
+BATCH_2088,surface_scratch,26,REWORK
+BATCH_2089,dim_error,62,REJECT
+BATCH_2090,Porosity,76,rejected
+BATCH_2091,surface_scratch,53,Rejected
+BATCH_2092,porosity,17,Passed
+BATCH_2093,dim_error,52,Rejected
+BATCH_2094,scratch_defect,32,rework
+BATCH_2095,DIMENSIONAL,30,Rework
+BATCH_2096,POROSITY,57,Rejected
+BATCH_2097,SURFACE SCRATCH,42,Rejected
+BATCH_2098,dimensional error,46,Rejected
+BATCH_2099,dim_error,49,REJECT
+BATCH_2100,porosity,39,rework
+BATCH_2101,Dim Error,21,Rework
+BATCH_2102,surface_scratch,54,REJECT
+BATCH_2103,Porosity,69,Rejected
+BATCH_2104,surface_scratch,32,REWORK
+BATCH_2105,Scratch,34,REWORK
+BATCH_2106,porosity,58,Rejected
+BATCH_2107,dimensional error,64,Rejected
+BATCH_2108,POROSITY,61,Rejected
+BATCH_2109,Porosity,24,REWORK
+BATCH_2110,Dimensional Error,67,rejected
+BATCH_2111,Surface Scratch,31,rework
+BATCH_2112,surface_scratch,28,Rework
+BATCH_2113,hairline_crack,89,REJECT
+BATCH_2114,porosity_defect,34,Rework
+BATCH_2115,Dimensional Error,38,REWORK
+BATCH_2116,scratch_defect,32,Rework
+BATCH_2117,Scratch,43,Rejected
+BATCH_2118,Scratch,21,PASS
+BATCH_2119,porosity_defect,78,REJECT
+BATCH_2120,Dim Error,50,REJECT
+BATCH_2121,dim_error,45,rejected
+BATCH_2122,porosity_defect,77,rejected
+BATCH_2123,Dim Error,57,Rejected
+BATCH_2124,Dim Error,68,Rejected
+BATCH_2125,porosity,60,Rejected
+BATCH_2126,DIMENSIONAL,33,rework
+BATCH_2127,Scratch,79,rejected
+BATCH_2128,SURFACE SCRATCH,29,Rework
+BATCH_2129,surface_scratch,57,Rejected
+BATCH_2130,surface_scratch,42,rejected
+BATCH_2131,Crack,89,REJECT
+BATCH_2132,porosity_defect,32,Rework
+BATCH_2133,surface_scratch,60,rejected
+BATCH_2134,Scratch,77,rejected
+BATCH_2135,POROSITY,50,Rejected
+BATCH_2136,Dim Error,51,Rejected
+BATCH_2137,surface_scratch,64,REJECT
+BATCH_2138,hairline_crack,20,passed
+BATCH_2139,Scratch,42,rework
+BATCH_2140,CRACK,50,Rejected
+BATCH_2141,DIMENSIONAL,39,REJECT
+BATCH_2142,Dimensional Error,22,rework
+BATCH_2143,SURFACE SCRATCH,67,Rejected
+BATCH_2144,scratch_defect,66,Rejected
+BATCH_2145,Surface Scratch,42,Rejected
+BATCH_2146,POROSITY,30,Rework
+BATCH_2147,surface_scratch,64,REJECT
+BATCH_2148,Dimensional Error,84,rejected
+BATCH_2149,scratch_defect,49,rejected
+BATCH_2150,SURFACE SCRATCH,45,rejected
+BATCH_2151,scratch_defect,28,REWORK
+BATCH_2152,Scratch,49,rejected
+BATCH_2153,dim_error,20,Rework
+BATCH_2154,dim_error,50,REJECT
+BATCH_2155,Porosity,58,Rejected
+BATCH_2156,CRACK,36,rework
+BATCH_2157,Dim Error,43,REWORK
+BATCH_2158,POROSITY,97,Rejected
+BATCH_2159,surface_scratch,55,Rejected
+BATCH_2160,DIMENSIONAL,38,rework
+BATCH_2161,Surface Scratch,70,rejected
+BATCH_2162,surface_scratch,35,Rework
+BATCH_2163,surface_scratch,36,rejected
+BATCH_2164,porosity,59,rejected
+BATCH_2165,DIMENSIONAL,74,Rejected
+BATCH_2166,Surface Scratch,29,Rework
+BATCH_2167,POROSITY,67,REJECT
+BATCH_2168,Dimensional Error,41,Rejected
+BATCH_2169,dimensional error,39,REWORK
+BATCH_2170,Dimensional Error,22,REWORK
+BATCH_2171,DIMENSIONAL,85,REJECT
+BATCH_2172,POROSITY,74,rejected
+BATCH_2173,CONTAM,71,REJECT
+BATCH_2174,DIMENSIONAL,58,REJECT
+BATCH_2175,dim_error,26,Rework
+BATCH_2176,dim_error,55,REJECT
+BATCH_2177,dim_error,33,Rework
+BATCH_2178,Surface Scratch,39,rejected
+BATCH_2179,DIMENSIONAL,53,REJECT
+BATCH_2180,Scratch,21,Rework
+BATCH_2181,CONTAM,53,rejected
+BATCH_2182,surface_scratch,26,REWORK
+BATCH_2183,surface_scratch,40,Rework
+BATCH_2184,dimensional error,26,Rework
+BATCH_2185,dim_error,23,rework
+BATCH_2186,Scratch,18,passed
+BATCH_2187,DIMENSIONAL,25,Rework
+BATCH_2188,scratch_defect,68,rejected
+BATCH_2189,Cracks,81,rejected
+BATCH_2190,Cracks,15,rework
+BATCH_2191,Scratch,56,Rejected
+BATCH_2192,Surface Scratch,41,rejected
+BATCH_2193,Cracks,38,rework
+BATCH_2194,Scratch,24,rework
+BATCH_2195,Dim Error,48,rejected
+BATCH_2196,POROSITY,45,Rejected
+BATCH_2197,dimensional error,23,rework
+BATCH_2198,SURFACE SCRATCH,92,REJECT
+BATCH_2199,Surface Scratch,51,Rejected
+BATCH_2200,Surface Scratch,59,Rejected
+BATCH_2201,Dim Error,32,Rework
+BATCH_2202,Crack,21,Rework
+BATCH_2203,surface_scratch,41,Rejected
+BATCH_2204,SURFACE SCRATCH,28,REWORK
+BATCH_2205,DIMENSIONAL,56,REJECT
+BATCH_2206,Dimensional Error,16,Passed
+BATCH_2207,hairline_crack,32,Rework
+BATCH_2208,scratch_defect,19,Rework
+BATCH_2209,Contamination,69,Rejected
+BATCH_2210,porosity_defect,49,rejected
+BATCH_2211,scratch_defect,49,rejected
+BATCH_2212,dim_error,65,Rejected
+BATCH_2213,POROSITY,29,Rework
+BATCH_2214,scratch_defect,68,rejected
+BATCH_2215,scratch_defect,49,Rejected
+BATCH_2216,dimensional error,26,REWORK
+BATCH_2217,Scratch,50,rejected
+BATCH_2218,Dim Error,78,rejected
+BATCH_2219,scratch_defect,26,rework
+BATCH_2220,Scratch,50,rejected
+BATCH_2221,porosity,37,rework
+BATCH_2222,dimensional error,35,Rework
+BATCH_2223,dimensional error,18,Rework
+BATCH_2224,scratch_defect,29,Rework
+BATCH_2225,Scratch,65,Rejected
+BATCH_2226,Surface Scratch,58,rejected
+BATCH_2227,POROSITY,17,PASS
+BATCH_2228,Scratch,51,rejected
+BATCH_2229,scratch_defect,40,REJECT
+BATCH_2230,dimensional error,75,rejected
+BATCH_2231,DIMENSIONAL,24,Rework
+BATCH_2232,SURFACE SCRATCH,75,Rejected
+BATCH_2233,SURFACE SCRATCH,52,rejected
+BATCH_2234,Scratch,31,rework
+BATCH_2235,Dim Error,22,REWORK
+BATCH_2236,CRACK,58,Rejected
+BATCH_2237,porosity_defect,38,REWORK
+BATCH_2238,scratch_defect,64,REJECT
+BATCH_2239,surface_scratch,27,rework
+BATCH_2240,Scratch,69,rejected
+BATCH_2241,surface_scratch,43,Rejected
+BATCH_2242,Dim Error,60,rejected
+BATCH_2243,Crack,60,rejected
+BATCH_2244,Surface Scratch,35,REWORK
+BATCH_2245,SURFACE SCRATCH,54,REJECT
+BATCH_2246,Surface Scratch,33,Rework
+BATCH_2247,dim_error,17,Passed
+BATCH_2248,SURFACE SCRATCH,31,REWORK
+BATCH_2249,dim_error,62,rejected
